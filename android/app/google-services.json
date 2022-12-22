@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897435673745",
+    "project_id": "reef-febd3",
+    "storage_bucket": "reef-febd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897435673745:android:b2b5a6983daaa0af224b30",
+        "android_client_info": {
+          "package_name": "com.example.reef_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897435673745-isv8d5jivk9tsdrjm2p23d8depc6mfvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqYbmoAcvwdIdcmo-wFR2PBx9sUL7xltw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897435673745-isv8d5jivk9tsdrjm2p23d8depc6mfvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
